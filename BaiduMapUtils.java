@@ -18,12 +18,12 @@ import com.qm.frame.baidu.BaiDuMeasurement;
  * @createDate 2018年9月23日 上午12:45:59
  * @Description 百度地图工具类
  */
-public class BaiduStatisticsUtil {
+public class BaiduMapUtils {
 
 
-	private static final Logger LOG = LoggerFactory.getLogger(BaiduStatisticsUtil.class);
+	private static final Logger LOG = LoggerFactory.getLogger(BaiduMapUtils.class);
 	
-	public static final String BAIDU_MAP_AK = "F87EQcrxktjHDD2pjOIMRjPPgNKs6RDR";
+	public static final String BAIDU_MAP_AK = "";
 
 
 	
